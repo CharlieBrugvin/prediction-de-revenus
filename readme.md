@@ -8,4 +8,6 @@ Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https:/
 > Cependant, elle souhaite cibler les prospects les plus susceptibles d'avoir, plus tard dans > leur vie, de hauts revenus.
 > L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un modèle permettant > de déterminer le revenu potentiel d'une personne.
 
+<br />
+
 :arrow_forward: [Voir ma présentation des résultats](présentation.pdf).

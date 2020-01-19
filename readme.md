@@ -9,4 +9,4 @@ Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https:/
 
 ### :arrow_forward: [Slides de présentation](présentation.pdf)
 
-### :notebook: [Notebook](/2_preparation_de_donnees.ipynb)
+### :notebook: [Notebook](notebook.ipynb)

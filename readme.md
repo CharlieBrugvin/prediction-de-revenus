@@ -7,4 +7,6 @@ Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https:/
 
 <br />
 
-### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf)
+### :arrow_forward: [Slides de présentation](présentation.pdf)
+
+### :notebook: [Notebook](/2_preparation_de_donnees.ipynb)
